@@ -1,4 +1,4 @@
-# code-quiz
+# Password Generator
 Week 3 HomeWork Assignment
 
 ## How to use
@@ -6,7 +6,7 @@ Week 3 HomeWork Assignment
 2. input a number between 8-128
 3. Select the characters you want in your password
 4. hit "Generate Password" to see the text display
-
+![Screenshot of quiz layout](PasswordGen.p)
 ## Features
 - If you input a number lower than 8, it will set your password length to 8
 - If you input a number Higher than 128, it will set your password length to 128
