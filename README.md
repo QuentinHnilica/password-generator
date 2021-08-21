@@ -1,8 +1,19 @@
-# password-generator
-This Will Generate a new unique password
+# code-quiz
+Week 3 HomeWork Assignment
 
-Used Css to style the website
+## How to use
+1. Open this link: [Github Pages Link](https://quentinhnilica.github.io/password-generator/)
+2. input a number between 8-128
+3. Select the characters you want in your password
+4. hit "Generate Password" to see the text display
 
-HTML was used to build the bones of the website
+## Features
+- If you input a number lower than 8, it will set your password length to 8
+- If you input a number Higher than 128, it will set your password length to 128
+- If you input letters into your length it will remove those
+- After password has been generated the button will change text to prompt you to generate again
 
-All under the hood programming was done is JS
+## Languages Used
+- JavaScript (Logic)
+- HTML (Bones of site)
+- Css (Styling)
